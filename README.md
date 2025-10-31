@@ -18,7 +18,7 @@ Middleware: Body-Parser
 
 Run Locally
 
-git clone https://github.com/your-username/blog-app.git
+git clone https://github.com/RekhaBiju/Blog-web-app
 cd blog-app
 npm install
 node index.js
