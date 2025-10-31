@@ -1,4 +1,3 @@
-Simple Blog Web App
 
 A minimal Node.js + Express + EJS blogging web app where users can create, edit, and delete posts dynamically.
 It uses an in-memory “fake database” to manage posts — perfect for learning CRUD operations and EJS templating! 
